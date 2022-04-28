@@ -46,12 +46,7 @@ def get_setting_from_user(settings):
 get_setting_from_user(settings)
 print(settings)
 
-
-
-
-
-
-
+#
 
 
 
